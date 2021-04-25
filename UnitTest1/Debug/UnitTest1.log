@@ -1,0 +1,4 @@
+﻿     Creating library E:\pr\5.1D\Debug\UnitTest1.lib and object E:\pr\5.1D\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: __thiscall Vector::Vector(double,double,double)" (??0Vector@@QAE@NNN@Z) referenced in function "public: __thiscall Vector3D::Vector3D(double,double,double)" (??0Vector3D@@QAE@NNN@Z)
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: __thiscall Vector::Vector(class Vector const &)" (??0Vector@@QAE@ABV0@@Z) referenced in function "public: __thiscall Vector3D::Vector3D(class Vector3D const &)" (??0Vector3D@@QAE@ABV0@@Z)
+E:\pr\5.1D\Debug\UnitTest1.dll : fatal error LNK1120: 2 unresolved externals
